@@ -1,0 +1,11 @@
+                    INSTRUCCIONES DE INSTALACIÓN
+
+a.- Abre la carpeta Debug.
+    Aquí se te presentan dos(2) opciones, elige cualquiera para instalar la app.
+
+b.- Sigue los pasos normal para instalar programas (siguiente, sguiente...) y listo.
+
+  NOTA:
+  Esta pequeña app está realizada para 
+  ser instalada, no es solo un archivo 
+  ejecutable.
